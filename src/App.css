@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  font-size: calc(10px + 2vmin);
+}
+
+a {
+  color: #09d3ac;
+  text-decoration: none;
+}
